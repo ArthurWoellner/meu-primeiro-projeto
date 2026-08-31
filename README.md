@@ -3,4 +3,4 @@ Atualmente estamos aprendendo a mexer no Git Hub
 
 Arthur Woellner
 
-Turma: 1° Ds-y
+Turma: 2° Ds-y
